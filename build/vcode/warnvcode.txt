@@ -1,0 +1,26 @@
+missing module named resource - imported by posix, D:\Sengal project\vcode.py
+missing module named posix - imported by os, D:\Sengal project\vcode.py
+missing module named _posixsubprocess - imported by subprocess, D:\Sengal project\vcode.py
+missing module named org - imported by pickle, D:\Sengal project\vcode.py
+missing module named readline - imported by cmd, code, pdb, D:\Sengal project\vcode.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\Sengal project\vcode.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\Sengal project\vcode.py
+missing module named _winreg - imported by platform, D:\Sengal project\vcode.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\Sengal project\vcode.py
+missing module named 'java.lang' - imported by platform, D:\Sengal project\vcode.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\Sengal project\vcode.py
+missing module named termios - imported by tty, getpass, D:\Sengal project\vcode.py
+missing module named urllib.urlencode - imported by urllib, speech_recognition
+missing module named grp - imported by shutil, tarfile, D:\Sengal project\vcode.py
+missing module named 'org.python' - imported by copy, D:\Sengal project\vcode.py, xml.sax
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, D:\Sengal project\vcode.py
+missing module named _dummy_threading - imported by dummy_threading, D:\Sengal project\vcode.py
+missing module named monotonic - imported by speech_recognition
+missing module named 'googleapiclient.http' - imported by speech_recognition
+missing module named 'googleapiclient.errors' - imported by speech_recognition
+missing module named googleapiclient - imported by speech_recognition
+missing module named oauth2client - imported by speech_recognition
+missing module named pocketsphinx - imported by speech_recognition
+missing module named snowboydetect - imported by speech_recognition
+missing module named urllib2 - imported by speech_recognition
